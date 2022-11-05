@@ -1,1 +1,1 @@
-# HCL_Logo-Detection-Project
+# HCL Logo Detection Using Ensemble Transfer Learning Model Project
